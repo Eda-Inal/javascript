@@ -1,3 +1,3 @@
 # Javascript
 
-my javascript projects
+This repo contains javascript practices
